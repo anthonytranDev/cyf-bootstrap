@@ -1,0 +1,15 @@
+.u-social-color {
+  color: white;
+}
+
+.u-social-color--facebook {
+  background-color: #3b5998;
+}
+
+.u-social-color--twitter {
+  background-color: #1dcaff;
+}
+
+.u-social-color--google-plus {
+  background-color: #dd4b39;
+}

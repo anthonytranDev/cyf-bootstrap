@@ -1,0 +1,23 @@
+.u-bg-color--pink {
+  background: pink;
+}
+
+.u-bg-color--skyblue {
+  background: skyblue;
+}
+
+.u-bg-color--green {
+  background: green;
+}
+
+.u-bg-color--orange {
+  background: orange;
+}
+
+.u-bg-color--orangered {
+  background: orangered;
+}
+
+.u-border {
+  border: 1px black solid;
+}

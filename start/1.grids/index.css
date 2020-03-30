@@ -1,0 +1,31 @@
+.u-bg-color--pink {
+  background: pink;
+}
+
+.u-bg-color--skyblue {
+  background: skyblue !important;
+}
+
+.u-bg-color--green {
+  background: green;
+}
+
+.u-bg-color--orange {
+  background: orange;
+}
+
+.u-bg-color--orangered {
+  background: orangered;
+}
+
+.u-border {
+  border: 1px black solid;
+}
+
+.u-set-height--200px {
+  height: 200px;
+}
+
+.u-set-height-view-full {
+  height: 100vw;
+}
